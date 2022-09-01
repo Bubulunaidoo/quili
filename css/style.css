@@ -1,0 +1,67 @@
+body{
+    font-family: 'Source Code Pro';
+    background-color: #ECCCB2;
+    margin: 0;
+    text-align:center;
+    line-height: 1.6em;
+    font-size: 16px;
+    border-color: #F5E8C7;
+    
+   
+
+    
+}
+h3{
+    color: white;
+    text-align: center;
+}
+li{
+    color: blue;
+}
+button{
+    color: azure;
+    background-color: royalblue;
+    font-family: 'Nanum Gothic Coding';
+    font-size: medium;
+    padding: 0.35cm;
+    border: 0cm;
+    
+}
+button:hover{
+    color: azure;
+    background-color:darkred;
+}
+button:visited{
+    background-color:rgb(69, 69, 69);
+}
+
+.header{
+    text-align: center;
+    background-color: #85586F;
+    overflow:hidden;
+    width: 100%; 
+}
+
+.alert {
+    padding: 20px;
+    background-color: #f44336;
+    color: white;
+    margin-bottom: 15px;
+  }
+  
+  
+  .closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+ 
+  .closebtn:hover {
+    color: black;
+  }
